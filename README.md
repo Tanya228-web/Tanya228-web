@@ -3,26 +3,20 @@
         <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Gaurav+%F0%9F%91%8B;Full+Stack+Web+Developer;DevOps;Start-up+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Tanya+%F0%9F%91%8B;Full+Stack+Web+Developer;DevOps;Start-up+Enthusiast" alt="Headline" />
     </div>
     <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/gaurav-kumar-5b80ba202/" target="_blank">
+<a href="https://www.linkedin.com/in/tanya-singh-sikarwar-0a3855342/" target="_blank">
   <img align="center" alt="Gaurav | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/iamGaurav201" target="_blank">
-  <img align="center" alt="Gaurav | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://leetcode.com/error_stock_201/" target="_blank">
   <img align="center" alt="Gaurav | Leetcode" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
 </a> &nbsp;&nbsp;
-<a href="mailto:iamGaurav201@gmail.com" >
+<a href="mailto:tanyasinghsikarwar1@gmail.com" >
   <img align="center" alt="Gaurav | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/iamGaurav201">
-    <img align="center" alt="Gaurav | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
   <br>
   <br>
@@ -58,9 +52,9 @@
 <br>
   <br
   
-[![Gaurav's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanya228-web&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tanya's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanya228-web&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Tanya228-web&show_icons=true&theme=tokyonight) | ![Gaurav GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanya228-web&theme=tokyonight) |
+| ![Tanya's github stats](https://github-readme-stats.vercel.app/api?username=Tanya228-web&show_icons=true&theme=tokyonight) | ![Gaurav GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanya228-web&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya228-web&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tanya228-web&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
